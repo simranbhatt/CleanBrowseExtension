@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "CleanBrowse",
+  "version": "1.0",
+  "description": "Close unused tabs",
+  "author": "Simran Bhatt",
+  "action" : {
+    "default_icon": "cleanbrowse.png",
+    "default_title": "close tabs!",
+    "default_popup": "index.html"
+  },
+  "permissions": ["tabs"]
+}
