@@ -1,11 +1,8 @@
-body {
-    margin: 0;
-    padding: 10px;
-    font-family: sans-serif;
-}
-
 p {
-    min-width: 100px;
+    padding: 10px;
+    align-items: center;
+    min-width: 80px;
     font-family: Arial, sans-serif;
+    font-weight: bold;
     color: green;
 }
